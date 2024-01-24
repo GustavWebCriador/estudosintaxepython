@@ -10,9 +10,6 @@
 </p>
 <br>
 
-<p align="center">
-  <img alt="grafico" src=".github/newplot.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
