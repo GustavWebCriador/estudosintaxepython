@@ -27,7 +27,6 @@ Você pode me encontrar no Linkedin, acesse meu perfil [Linkedin](https://www.li
 ## :memo: Licença
 
 Projeto desenvolvido para estudo, Gustavo Medeiros# analise de sintaxe e estudo de linguagem Python
-# estudodesintaxepython
-# python 
+
 
 
